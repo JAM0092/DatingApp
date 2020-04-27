@@ -1,0 +1,7 @@
+Dating App package installs
+API
+
+
+SPA
+boostrap4
+Alertify js - npm install alertifyjs
